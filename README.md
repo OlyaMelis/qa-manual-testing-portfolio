@@ -40,6 +40,7 @@ The goal is to demonstrate the ability to:
 - Test Plan — Contact Form
 - Test Cases — Contact Form
 - Bug Report — Email validation issue
+- Exploratory Notes
 
 ### English (EN)
 - Translation of all FR deliverables
