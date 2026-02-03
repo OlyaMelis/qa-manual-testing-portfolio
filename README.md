@@ -25,10 +25,12 @@ The goal is to demonstrate the ability to:
 │ ├── test-plan/
 │ ├── test-cases/
 │ └── bug-reports/
+│ └── exploratory-notes/
 └── en/
-├── test-plan/
-├── test-cases/
-└── bug-reports/
+│ ├── test-plan/
+│ ├── test-cases/
+│ └── bug-reports/
+│ └── exploratory-notes/
 ```
 ---
 
